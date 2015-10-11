@@ -1,7 +1,9 @@
 var express = require('express');
+var router = express.Router();
 var app = express();
 var bodyParser = require('body-parser');
-var welcome = require('./routes/welcome')
+var welcome = require('./routes/welcome');
+
 
 app.set('view engine', 'ejs');
 app.locals.title = 'Premise Health';
