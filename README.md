@@ -31,6 +31,6 @@ Start Postgres.app and point it to the premise.sql file
 
 From the challenge root directory, type:
 
-`node app.js'
+`node app.js`
 
 Open your web browser to [this address] (http://localhost:4000/) and you will see the app.
