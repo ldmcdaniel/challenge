@@ -34,7 +34,3 @@ From the challenge root directory, type:
 `node app.js'
 
 Open your web browser to [this address] (http://localhost:4000/) and you will see the app.
-
-There are two parts to this view:
-*A filter box for the table of the stakeholders and their information.
-*An email form that you can edit and send an email (the email service is not attached) to stakeholders.
