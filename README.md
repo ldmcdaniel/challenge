@@ -53,7 +53,7 @@ psql premise < premise.sql
 
 *The PostgreSQL method is untested by me, as I have OSX and have not tested it on Windows.  Please let me know if this is not correct.*
 
-##After the database is imported and either the PostgreSQL or Postgres.app servers are running:
+##After the premise.sql database file in this repository is imported **and** either the PostgreSQL or Postgres.app servers are running:
 
 From the 'challenge' root directory, type:
 
