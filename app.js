@@ -78,6 +78,7 @@ app.get('/api/products', function(req, res) {
   });
 })
 
+
 app.use(express.static('www'));
 
 app.listen(4000);
